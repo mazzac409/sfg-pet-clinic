@@ -4,7 +4,6 @@ import java.io.Serializable;
 
 /**
  * Created by chrismazza on 2019-01-24
- * New comment
  **/
 
 public class BaseEntity implements Serializable {
